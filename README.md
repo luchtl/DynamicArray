@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ I was an inch away from being a soccer player<br>📚 I'm currently learning at Saint Mary's University<br>🎯 Goals: travel the world, universes(maybe)<br>🎲 Fun fact: I love my family</p>
+<p align="left">✨ I was an inch away from being a soccer player<br>📚 I'm currently learning at Saint Mary's University<br>🎯 Goals: travel the world, universes (maybe)<br>🎲 Fun fact: I love my family</p>
 
 ###
